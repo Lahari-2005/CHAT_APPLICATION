@@ -82,3 +82,6 @@ Live chat forums for communities or social groups.
 The real-time chat application is a lightweight and efficient communication tool that provides an interactive and seamless messaging experience. Built with Node.js, Socket.IO, and JavaScript, it ensures that messages are instantly delivered to all connected users. With a modern UI and real-time updates, it serves as a foundation for more advanced messaging platforms.
 
 If further enhancements are required, such as user authentication, media sharing, or private chats, the application can be extended to accommodate these features. The project demonstrates the power of WebSockets and event-driven programming, making it an excellent choice for learning real-time web development concepts.
+# OUTPUT
+![Screenshot 2025-03-16 132607](https://github.com/user-attachments/assets/194a7eab-3aaf-434d-b495-aa203a2ea2c9)
+
