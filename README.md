@@ -1,4 +1,11 @@
 # CHAT_APPLICATION
+*COMPANY* : CODTECH IT SOLUTIONS
+*NAME* : DASARI LAKSHMI LAHARI
+*INTERN ID* : CT04WA125
+*DOMAIN* : FRONT END DEVELOPMENT
+*DURATION* : 4 WEEKS
+*MENTOR* : NEELA SANTOSH
+
 # Introduction
 This real-time chat application is designed to allow multiple users to communicate with each other instantly through a web-based interface. The system leverages WebSockets to enable bi-directional communication between the client and server, ensuring that messages appear in real-time without requiring a page refresh. The chat room provides a simple and intuitive interface where users can enter their name, type a message, and send it to all connected users.
 
